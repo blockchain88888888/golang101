@@ -1,4 +1,3 @@
-**[微信群召集帖](https://github.com/golang101/golang101/issues/11)** | **公众号二维码见下方** | [英文项目地址](https://github.com/go101/go101)
 
 ----
 
@@ -15,8 +14,6 @@
 微信公众号（用于发布一些Go细节、常识和技巧）：
 
 ![](pages/website/res/101-group-qrcode-2.jpg?raw=true)
-
-_(若上面二维码未显示出来，请点击此[墙内版链接](https://tool.oschina.net/action/qrcode/generate?data=http%3A%2F%2Fweixin.qq.com%2Fr%2FRy6ju1TE0AmvrRDY93tV&output=image%2Fgif&error=L&type=0&margin=12&size=4)或者在微信中搜索 "Go 101" 公众号。)_
 
 老貘从2016年开始编写《Go语言101》系列丛书和维护go101.org网站。
 你的赞赏是本书和网站不断增容的动力：
